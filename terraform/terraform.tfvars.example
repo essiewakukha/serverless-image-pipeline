@@ -1,0 +1,12 @@
+
+
+aws_region         = "us-east-1"
+project_name       = "serverless-image-pipeline"   
+notification_email = "esthermwakukha@gmail.com"
+
+# Optional overrides — defaults shown
+# ecr_image_tag      = "latest"
+# thumbnail_size     = "300x300"
+# watermark_text     = "PROCESSED"
+# lambda_memory_size = 512
+# lambda_timeout     = 30
